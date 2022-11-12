@@ -11,9 +11,9 @@ assignees: ''
 *Fill this form to declare your intention to becoming a node operator in the production network*
 
 ### Company
-Full legal name: ________
-Representative contact name: _______
-Representative contact email: _______@company.domain
+Full legal name: ________        
+Representative contact name: _______      
+Representative contact email: _______@company.domain    
 
 I hereby recognize that our company does not already have a Node in this network
 
