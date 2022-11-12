@@ -11,17 +11,16 @@ assignees: ''
 *Fill this form to declare your intention to becoming a node operator in the production network*
 
 ### Company
-Full legal name: ________        
-Representative contact name: _______      
-Representative contact email: _______@company.domain    
+* Full legal name: ________        
+* Company website: _______
+* Representative contact name: _______      
+* Representative contact email: _______@company.domain    
 
 I hereby recognize that our company does not already have a Node in this network
 
 ### Sealer Node
-Sealer address: <0x1244...0087> (ensure you have the ownership and safekeeping of the private key)
-
-
-
+* Sealer address: <0x1244...0087> (ensure you have the ownership and safekeeping of the private key)
+* Link to your website to prove that your company owns this address
 
 ### Motivations
 
