@@ -1,5 +1,5 @@
 ---
-name: Candiate Form for Node Auditor
+name: Candidate Form for Node Auditor
 about: Form for a new node auditor to declare its intention to becoming an active
   carbon footprint auditor
 title: "<Company> want to become an auditor"
